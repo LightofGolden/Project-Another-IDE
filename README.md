@@ -1,5 +1,5 @@
 # Project: Another IDE
-## This is "Project: Another IDE", an Integrated Developer Environment/IDE made in Roblox and Lua + Roblox's Luau. 
+## This is "Project: Another IDE" or shortened, "aIDE", an Integrated Developer Environment/IDE made in Roblox and Lua + Roblox's Luau. 
 This is **NOT** intended for use, this is a fun solo project with me absolutely challenging myself with random 3AM motivation to make this.
 
 
