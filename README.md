@@ -12,4 +12,6 @@ This is the progress list/map, as of this time, this project is at Stage 1.
 - [] Polishing, with a plugin in VSCode to import a script to the project.
 
 # What will this repository contain?
-This GitHub repo will contain an open source version of aIDE
+This GitHub repo will either contain an open source version of aIDE, or some code dumps that will be put here. I haven't decided it yet so... just wait.
+
+### This project is licensed under the GNU GENERAL PUBLIC LICENSE v3. For more information, read it [here (GitHub)](https://github.com/LightofGolden/Project-Another-IDE?tab=GPL-3.0-1-ov-file) or [here (Official GNU Page)](https://www.gnu.org/licenses/gpl-3.0.html).
