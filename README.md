@@ -1,6 +1,6 @@
 # Project: Another IDE
 ## This is "Project: Another IDE" or shortened, "aIDE", an Integrated Developer Environment/IDE made in Roblox and Lua + Roblox's Luau. 
-This is **NOT** intended for use, this is a fun solo project with me absolutely challenging myself with random 3AM motivation to make this.
+This is **NOT** intended for use, this is a fun solo project with me absolutely challenging myself with random 3AM motivation to make this. However, if you wanna use, you can, i can't limit you.
 
 
 # Progress List -- Current: *Stage 1*
@@ -9,7 +9,9 @@ This is the progress list/map, as of this time, this project is at Stage 1.
 - [x] Make a barebones mockup
   ![Component 1](https://github.com/LightofGolden/Project-Another-IDE/assets/143787844/a9fae3b3-0e32-4964-b93b-d47af921af69)
 - [] Building from the mockup and add extra stuff - **CURRENT**
-- [] Make a script runner with 3 selected languages in Luau, i'm starting with Python.
+- [] Make a script runner with 3 selected languages in Luau, i'm starting with Lua + Luau.
+- [] Start a new database within crossovers, origins with Roblox's database API
+- [] Make extensions, source controls and a github-like database for custom-made repositories.
 - [] Polishing, with a plugin in VSCode to import a script to the project.
 
 # What will this repository contain?
