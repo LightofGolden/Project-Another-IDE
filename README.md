@@ -1,6 +1,9 @@
+<img src="https://github.com/LightofGolden/Project-Another-IDE/assets/143787844/39490daf-4c2d-46d9-81c4-a57ce543e7a0" alt="aIDE logo" style="width:800px;height:600px;">
+
 # Project: Another IDE
 ## This is "Project: Another IDE" or shortened, "aIDE", an Integrated Developer Environment/IDE made in Roblox and Lua + Roblox's Luau. 
 This is **NOT** intended for use, this is a fun solo project with me absolutely challenging myself with random 3AM motivation to make this. However, if you wanna use, you can, i can't limit you.
+
 
 
 # Progress List -- Current: *Stage 1*
