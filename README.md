@@ -21,4 +21,5 @@ This is the progress list/map, as of this time, this project is at Stage 3.
 
 # What will this repository contain?
 This GitHub repo will either contain an open source version of aIDE, or some code dumps that will be put here. I haven't decided it yet so... just wait.
+### This project is licensed under the MIT License.
 
